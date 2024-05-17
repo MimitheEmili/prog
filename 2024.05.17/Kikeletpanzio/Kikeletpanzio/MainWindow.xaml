@@ -1,0 +1,50 @@
+﻿<Window x:Class="Kikeletpanzio.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kikeletpanzio"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="1000">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="FontSize" Value="30"/>
+            <Setter Property="Height" Value="220"/>
+            <Setter Property="Width" Value="220"/>
+            <Setter Property="Background" Value="#c4dfe6"/>
+
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Border Background="{TemplateBinding Background}" 
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="1" 
+                    CornerRadius="30">
+                                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#d3c5e5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <DockPanel>
+            <Button Name="Memberlist" Content="Tagok" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+            <Button Name="Foglalas" Content="Foglalás" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,10,10,0"/>
+            
+        </DockPanel>
+        <DockPanel>
+            <Button Name="registration" Content="Regisztráció" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,10"/>
+            <Button Name="Statistic" Content="Statisztika" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,10,10"/>
+        </DockPanel>
+        <StackPanel Grid.Column="1">
+            
+        </StackPanel>
+    </Grid>
+</Window>

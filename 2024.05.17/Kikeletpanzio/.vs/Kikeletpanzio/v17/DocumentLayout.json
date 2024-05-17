@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|c:\\users\\memmalili\\desktop\\programoz\u00E1s\\2024.05.17\\kikeletpanzio\\kikeletpanzio\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|solutionrelative:kikeletpanzio\\adatok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|c:\\users\\memmalili\\desktop\\programoz\u00E1s\\2024.05.17\\kikeletpanzio\\kikeletpanzio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|solutionrelative:kikeletpanzio\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|c:\\users\\memmalili\\desktop\\programoz\u00E1s\\2024.05.17\\kikeletpanzio\\kikeletpanzio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D64B7E9D-8D74-477E-931D-615D83368286}|Kikeletpanzio\\Kikeletpanzio.csproj|solutionrelative:kikeletpanzio\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adatok.cs",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\Adatok.cs",
+              "RelativeDocumentMoniker": "Kikeletpanzio\\Adatok.cs",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\Adatok.cs",
+              "RelativeToolTip": "Kikeletpanzio\\Adatok.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T09:24:51.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Kikeletpanzio\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\MainWindow.xaml",
+              "RelativeToolTip": "Kikeletpanzio\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T05:58:59.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Kikeletpanzio\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\memmalili\\Desktop\\Programoz\u00E1s\\2024.05.17\\Kikeletpanzio\\Kikeletpanzio\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Kikeletpanzio\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:58:54.882Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
